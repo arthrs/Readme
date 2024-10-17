@@ -2,6 +2,7 @@
 
 ## Visão Geral
 
+
 Este repositório documenta o progresso do projeto de aprendizado em QA da Compass, organizado por Sprints. Cada Sprint representa um período de desenvolvimento dos estudos.
 
 ## Sprints
