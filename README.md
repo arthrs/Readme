@@ -3,7 +3,8 @@
 ## Visão Geral
 
 
-Este repositório documenta o progresso do projeto de aprendizado em QA da Compass, organizado por Sprints. Cada Sprint representa um período de desenvolvimento dos estudos e seus desafios.
+Este repositório documenta o progresso do projeto de aprendizado em QA da Compass, organizado por Sprints.<br>
+Cada Sprint representa um período de desenvolvimento dos estudos e seus desafios.
 
 ## Sprints
 
@@ -25,7 +26,7 @@ Em resumo, foi um dia repleto de novas descobertas e ferramentas que com certeza
 No segundo dia, aprofundei meus conhecimentos em Scrum Agile! Através do curso da Udemy, compreendi os fundamentos dessa metodologia ágil, que visa entregar valor ao cliente de forma rápida e eficiente. Desmistifiquei termos como sprint, backlog e daily scrum, e aprendi como essas práticas colaboram para o sucesso de um projeto.
 A tarde foi ainda mais prática! Participei de uma daily scrum onde tive a oportunidade de vivenciar como essa reunião diária funciona na prática. Aprendi a importância de cada membro do time compartilhar suas atividades, desafios e próximos passos, garantindo que todos estejam alinhados e focados nos objetivos do sprint.
 Com essa imersão, estou cada vez mais confiante para aplicar os conceitos do Scrum em meus projetos e trabalhar em equipe de forma mais colaborativa e produtiva.
-Em resumo, o dia foi marcado por:<br>
+Em resumo, o dia foi marcado por;
 Aprendizado teórico: Compreensão dos fundamentos do Scrum.
 Prática: Participação em uma daily scrum real.
 Desenvolvimento de habilidades: Melhora na comunicação e colaboração em equipe, aumentando assim a união e a intimidade entre a equipe.
@@ -45,7 +46,18 @@ O curso abordou também a necessidade de negociar prazos, recursos e expectativa
 Por fim, foram apresentadas diversas técnicas de teste e suas aplicações, bem como o conceito de débito técnico e seus impactos na qualidade do software. Ao final do dia, tive uma visão mais completa do perfil do profissional QA e das responsabilidades envolvidas nessa função.
 
   * **DIA 05:**
-  * 
+  * Resumo do Dia 5: Fundamentos do Teste de Software.<br>
+No quinto dia de estudos da trilha de QA, foram abordados conceitos fundamentais sobre testes de software e a importância de uma abordagem rigorosa nesse processo.
+Pontos-chave:
+Lei de Pareto nos testes: 80% dos erros se concentram em 20% do código, o que demonstra a importância de priorizar os testes nesses pontos críticos.
+Impossibilidade de testes exaustivos: Devido à complexidade dos sistemas, é impossível testar todas as combinações possíveis. O objetivo é reduzir o número de defeitos, não eliminá-los completamente.
+Independência do processo de teste: Os testadores devem ser imparciais e independentes dos desenvolvedores para garantir a qualidade do software.
+Importância de testar valores inválidos e inesperados: Além dos valores esperados, é crucial testar situações extremas e entradas inválidas para identificar possíveis falhas.
+Estabilidade do software durante os testes: O software deve permanecer estável durante o processo de teste para evitar resultados imprecisos.
+Documentação detalhada: É fundamental documentar os resultados esperados para cada teste, facilitando a comparação e a identificação de defeitos.
+Origem do termo "bug": A expressão "bug" surgiu no contexto da computação quando um inseto causou uma falha em um computador nos anos 1940.
+Impacto dos bugs: Erros em software podem causar danos financeiros, de imagem e até mesmo colocar vidas em risco.
+Ao final do dia, foi concluído o segundo bloco do curso "Início Rápido em QA", solidificando os conhecimentos básicos sobre testes de software.
     * ...
 
 ### Sprint 2: [Data de Início] - [Data de Término]
