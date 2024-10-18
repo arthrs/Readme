@@ -1,13 +1,13 @@
-# Compass QA
+# Estudos em QA
 
 ## Visão Geral
 
 
-Este repositório documenta o progresso do projeto de aprendizado em QA da Compass, organizado por Sprints. Cada Sprint representa um período de desenvolvimento dos estudos.
+Este repositório documenta o progresso do projeto de aprendizado em QA da Compass, organizado por Sprints. Cada Sprint representa um período de desenvolvimento dos estudos e seus desafios.
 
 ## Sprints
 
-### Sprint 1: [Data de Início] - [Data de Término]
+### Sprint 1: [14/10/2024] - [Data de Término]
 
 * **DIA 01:**
     * Resumo do Dia 1: Desvendando Git, GitHub, GitLab e Readme.<br>
@@ -43,7 +43,9 @@ No quarto dia do curso "Início Rápido em Teste e QA", aprofundei meus conhecim
 Descobri que a empatia é uma habilidade crucial para construir relacionamentos sólidos com a equipe e entender as perspectivas de diferentes stakeholders. Além disso, compreendi a importância de equilibrar as soft skills (habilidades interpessoais) e hard skills (habilidades técnicas) para atuar com excelência na área de QA.
 O curso abordou também a necessidade de negociar prazos, recursos e expectativas com outras áreas da empresa, destacando a importância de uma comunicação eficaz e de uma postura proativa. Entendi que o profissional de QA deve estar sempre atento às regras e processos da empresa para garantir a qualidade do produto final.
 Por fim, foram apresentadas diversas técnicas de teste e suas aplicações, bem como o conceito de débito técnico e seus impactos na qualidade do software. Ao final do dia, tive uma visão mais completa do perfil do profissional QA e das responsabilidades envolvidas nessa função.
-    * [Próximo Passo 2]
+
+  * **DIA 05:**
+  * 
     * ...
 
 ### Sprint 2: [Data de Início] - [Data de Término]
